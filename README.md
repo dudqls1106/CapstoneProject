@@ -20,7 +20,7 @@
 
 | **서연수** | **성시우** | **박영빈** | **유두연** |
 | :------: |  :------: | :------: | :------: |
-| [<img src="https://github.com/user-attachments/assets/b8ee6c21-e044-4dcf-ade4-7ea26aa8c78c" height=150 width=150> <br/> @yeon1615](https://github.com/yeon1615) | [<img src="https://github.com/user-attachments/assets/05a676d3-31ae-4dc5-ba33-2bb342d952cf" height=150 width=150> <br/> @Cheorizzang](https://github.com/Cheorizzang) | [<img src="https://github.com/user-attachments/assets/d9ec4cf1-2319-4320-bf95-b074ad6d5bd7" height=150 width=150> <br/> @dudqls1106](https://github.com/dudqls1106) | [<img src="https://github.com/user-attachments/assets/57142a10-8c2b-43e5-b308-928823a941c4" height=150 width=150> <br/> @heejiyang](https://github.com/heejiyang) |
+| [<img src="https://github.com/user-attachments/assets/b8ee6c21-e044-4dcf-ade4-7ea26aa8c78c" height=150 width=150> <br/> @brynn00](https://github.com/brynn00) | [<img src="https://github.com/user-attachments/assets/05a676d3-31ae-4dc5-ba33-2bb342d952cf" height=150 width=150> <br/> @sung0368](https://github.com/sung0368) | [<img src="https://github.com/user-attachments/assets/d9ec4cf1-2319-4320-bf95-b074ad6d5bd7" height=150 width=150> <br/> @dudqls1106](https://github.com/dudqls1106) | [<img src="https://github.com/user-attachments/assets/57142a10-8c2b-43e5-b308-928823a941c4" height=150 width=150> <br/> @duyeonyoo99](https://github.com/duyeonyoo99) |
 
 </div>
 
