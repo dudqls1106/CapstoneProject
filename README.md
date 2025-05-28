@@ -2,7 +2,7 @@
 
 # MooDiary
 
-<img width="509" alt="pi" src="https://github.com/user-attachments/assets/f927fa4e-92ee-4982-a0fc-27467a0dbd9f">
+<img width="509" alt="pi" src="https://github.com/user-attachments/assets/3030c749-a209-4fea-b5c6-bfbd8fa7ce7f">
 
 <br>
 
