@@ -214,7 +214,7 @@
 
 - **UI 설계 및 구현**
 - **Google Cloud 연동**
-- - **AI 연결**
+- **AI 연결**
 
 <br>
     
@@ -222,7 +222,7 @@
 
 - **DB 설계 및 구축**
 - **UI 구현**
-- - **AI 테스팅**
+- **AI 테스팅**
 
 
 <br>
@@ -274,7 +274,7 @@
 
 | 메인화면 |
 |----------|
-|<img src="https://github.com/user-attachments/assets/ecce6871-2d3c-4f71-9bcd-2e8d7b9f8b39" height=150 width=150>|
+|<img src="https://github.com/user-attachments/assets/ecce6871-2d3c-4f71-9bcd-2e8d7b9f8b39">|
 
 <br>
 
