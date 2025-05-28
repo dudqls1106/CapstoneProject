@@ -37,7 +37,7 @@
 
 
 
-## 2. 채택한 개발 기술과 브랜치 전략
+## 2. 채택한 개발 기술
 
 ### Android(Java) 기반 네이티브 앱 개발
 
@@ -51,7 +51,7 @@
 
 ### Llama v3
 
-- 
+- 온디바이스에 최적화 된 LLM 기반 로컬 AI 추론 기술 제공
 
 ### Android STT
 
@@ -76,7 +76,7 @@
 ├── local.properties
 ├── settings.gradle
 │
-├── app
+└── app
      ├── .cxx
      ├── build
      ├── java-llama.cpp
@@ -204,17 +204,6 @@
                               └── item_diary_entry.xml
 
       
-├── .dart tool
-├── .vscode
-├── android
-├── ios
-├── assets
-├── build
-├── linux
-├── macos
-├── test
-├── web
-└── windows
 ```
 
 <br>
@@ -279,15 +268,13 @@
 
 ## 7. 페이지별 기능
 
-### [초기화면]
-- 서비스 접속 초기화면으로 splash 화면이 잠시 나온 뒤 다음 페이지가 나타납니다.
-    - 로그인이 되어 있지 않은 경우 : SNS 로그인 페이지
-    - 로그인이 되어 있는 경우 : README 홈 화면
-- SNS(카카오톡, 구글, 페이스북) 로그인 기능은 구현되어 있지 않습니다.
+### [메인화면/일기화면]
+- 해시태그 및 내용으로 작성한 일기를 확인합니다.
+- 일기 확인ㅇ르 통해 감정 분석의 결과를 확인할 수 있습니다.
 
-| 초기화면 |
+| 메인화면 |
 |----------|
-|![splash](https://user-images.githubusercontent.com/112460466/210172920-aef402ed-5aef-4d4a-94b9-2b7147fd8389.gif)|
+|<img src="https://github.com/user-attachments/assets/ecce6871-2d3c-4f71-9bcd-2e8d7b9f8b39" height=150 width=150>|
 
 <br>
 
