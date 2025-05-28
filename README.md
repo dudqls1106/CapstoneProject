@@ -256,17 +256,9 @@
 - GitHub Projects와 Issues를 사용하여 진행 상황을 공유했습니다.
 - 주간회의를 진행하며 작업 순서와 방향성에 대한 고민을 나누고 GitHub Wiki에 회의 내용을 기록했습니다.
 
-<br>
+--- 
 
-## 6. 신경 쓴 부분
-
-- [접근제한 설정](https://github.com/likelion-project-README/README/wiki/README-6.%EC%8B%A0%EA%B2%BD-%EC%93%B4-%EB%B6%80%EB%B6%84_%EC%A0%91%EA%B7%BC%EC%A0%9C%ED%95%9C-%EC%84%A4%EC%A0%95)
-
-- [Recoil을 통한 상태관리 및 유지](https://github.com/likelion-project-README/README/wiki/README-6.%EC%8B%A0%EA%B2%BD-%EC%93%B4-%EB%B6%80%EB%B6%84_Recoil%EC%9D%84-%ED%86%B5%ED%95%9C-%EC%83%81%ED%83%9C%EA%B4%80%EB%A6%AC-%EB%B0%8F-%EC%9C%A0%EC%A7%80)
-
-<br>
-
-## 7. 페이지별 기능
+## 6. 페이지별 기능
 
 ### [메인 화면 / 일기 화면]
 - 해시태그 및 내용으로 작성한 일기를 확인합니다.
@@ -327,10 +319,9 @@
 |----------|
 |<img src="https://github.com/user-attachments/assets/ed9289ae-bd84-4eb4-bf9d-322f8fc39a1e">|
 
-
 --- 
 
-## 6. 프로젝트 후기
+## 7. 프로젝트 후기
 
 ### 🍊 서연수
 
