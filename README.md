@@ -37,21 +37,21 @@
 
 ## 2. 채택한 개발 기술
 
-### Android(Java) 기반 네이티브 앱 개발
+* ### Android(Java) 기반 네이티브 앱 개발
 
-### SQLite
+* ### SQLite
 
 - 일기 데이터, 통계 및 피드백 등의 로컬 저장소
  
-### Google Drive API
+* ### Google Drive API
 
 - 데이터의 선택적 클라우드 백업 및 복원 기능 제공
 
-### Llama v3
+* ### Llama v3
 
 - 온디바이스에 최적화 된 LLM 기반 로컬 AI 추론 기술 제공
 
-### Android STT
+* ### Android STT
 
 - 온디바이스 음성 인식 기능 구현으로 인터넷 연결 없이 음성 일기 작성 제공
 
